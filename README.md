@@ -7,6 +7,7 @@ Talking HR Monitor - https://www.youtube.com/watch?v=KIBU_bsfzjk
 Instructions Followed - http://www.instructables.com/id/Talking-Arduino-Heart-Rate-Monitor/
 
 Materials List
+
 MicroSD Card 
 
 Proto-Screwshield (Wingshield) R3 kit - $14.95

@@ -2,7 +2,7 @@
 
 Project Demos
 
-1. Talking HR Monitor - https://www.youtube.com/watch?v=KIBU_bsfzjk
+Talking HR Monitor - https://www.youtube.com/watch?v=KIBU_bsfzjk
 
 Instructions Followed - http://www.instructables.com/id/Talking-Arduino-Heart-Rate-Monitor/
 
